@@ -1,0 +1,2 @@
+# hogyan
+mit kell csinálni
